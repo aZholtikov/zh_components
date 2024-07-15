@@ -4,6 +4,7 @@
 
 1. [zh_network](<https://github.com/aZholtikov/zh_network>) ESP-NOW based mesh network.
 2. [zh_espnow](<https://github.com/aZholtikov/zh_espnow>) ESP-NOW interface.
+3. [zh_syslog](<https://github.com/aZholtikov/zh_syslog>) Syslog server UDP client.
 
 ## Systems
 
