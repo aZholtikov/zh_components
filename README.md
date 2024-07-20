@@ -13,7 +13,7 @@
 
 ## Sensors
 
-1. [zh_aht](https://github.com/aZholtikov/zh_aht) AHT20/AHT21 humidity & temperature sensor.
+1. [zh_aht](https://github.com/aZholtikov/zh_aht) AHT10/AHT15/AHT20/AHT21/AHT25/AHT30 humidity & temperature sensor.
 2. [zh_dht](https://github.com/aZholtikov/zh_dht) DHT11/DHT22/AM2302/AM2320 humidity & temperature sensor.
 3. [zh_bh1750](https://github.com/aZholtikov/zh_bh1750) BH1750 ambient light sensor.
 4. [zh_onewire](https://github.com/aZholtikov/zh_onewire) 1-Wire interface.
