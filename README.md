@@ -11,6 +11,7 @@
 
 1. [zh_vector](https://github.com/aZholtikov/zh_vector) Vector (dynamic array).
 2. [zh_json](https://github.com/aZholtikov/zh_json) JSON serialization.
+3. [zh_menu](https://github.com/aZholtikov/zh_menu) Multi-level hierarchical menu.
 
 ## Peripherals
 
